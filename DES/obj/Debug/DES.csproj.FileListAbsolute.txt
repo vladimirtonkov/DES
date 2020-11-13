@@ -1,0 +1,10 @@
+C:\Users\Pc-Андрей\source\repos\DES\DES\bin\Debug\DES.exe.config
+C:\Users\Pc-Андрей\source\repos\DES\DES\bin\Debug\DES.exe
+C:\Users\Pc-Андрей\source\repos\DES\DES\bin\Debug\DES.pdb
+C:\Users\Pc-Андрей\source\repos\DES\DES\obj\Debug\DES.csprojAssemblyReference.cache
+C:\Users\Pc-Андрей\source\repos\DES\DES\obj\Debug\DES.Form1.resources
+C:\Users\Pc-Андрей\source\repos\DES\DES\obj\Debug\DES.Properties.Resources.resources
+C:\Users\Pc-Андрей\source\repos\DES\DES\obj\Debug\DES.csproj.GenerateResource.cache
+C:\Users\Pc-Андрей\source\repos\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\Pc-Андрей\source\repos\DES\DES\obj\Debug\DES.exe
+C:\Users\Pc-Андрей\source\repos\DES\DES\obj\Debug\DES.pdb
